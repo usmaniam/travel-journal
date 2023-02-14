@@ -1,7 +1,7 @@
 
 # Travel journal
 
-A travel journal built with ReactJS and styled with custom CSS based on a Figma design. There is no any interactivity in the project but it was enough in scope to help me wrap my head around React's concept of passing props which I was really strugging with.  
+A travel journal built with ReactJS and styled with custom CSS based on a Figma design. There is no any interactivity in the project but it was enough in scope to help me wrap my head around React's concept of passing props which I was really struggling with.  
 
 The project was bootstrapped with Vite.
 
@@ -14,7 +14,7 @@ https://travel-journal-usmaniam.netlify.app
 
 - Design to code. I learned how to build a functional UI from scratch, from a Figma design.
 
-- I cemented my knowledge of Flexbox and CSS. This is exactly why I chose to use custom CSS in the project instead of TailwindCSS which I had initially considered.
+- I cemented my knowledge of Flexbox and CSS variables. In fact, this is exactly why I chose to use custom CSS in the project instead of TailwindCSS which I had initially considered.
 
 
 ## Tech Stack
