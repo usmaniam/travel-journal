@@ -1,7 +1,7 @@
 
 # Travel journal
 
-A travel journal built with ReactJS and styled with custom CSS based on a Figma design. There is no any interactivity in the project but it was enough in scope to help me wrap my head around React's concept of passing props which I was really struggling with.  
+A fully responsive travel journal built with ReactJS and styled with custom CSS based on a Figma design. There is no any interactivity in the project but it was enough in scope to help me wrap my head around React's concept of passing props which I was really struggling with.  
 
 The project was bootstrapped with Vite.
 
